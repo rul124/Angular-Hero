@@ -1,6 +1,13 @@
 # AngularHero
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+This project was used for learning Angular by building an application named **Tour Hero** generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+
+The finished application can fulfill functions below:
+
+- Gets a list of heroes
+- Displays the heroes in a list
+- Edits a selected hero's details
+- Navigates between different views of heroic data
 
 ## Development server
 
